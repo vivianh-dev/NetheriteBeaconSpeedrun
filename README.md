@@ -6,8 +6,8 @@ This guide does not assume a playercount, or the speed at which these farms can 
 
 Each step should have links, either in-document symlinks or links to videos/schematics, to the necessary information. Farm outlines will list rates and credit if information is known. 
 
-To start, either view the page on the [netherite beacon](./builds/netherite_beacon.md), or view the directory to find a specific page. This wiki is a directed single sink graph, meaning you can get to any page from anywhere. 
+To start, either view the page on the [netherite beacon](../builds/netherite_beacon.md), or view the directory to find a specific page. This wiki is a directed single sink graph, meaning you can get to any page from anywhere. 
 
 
 
-This document is licensed under the [MIT license](./LICENSE.md). Ownership belongs to Vivian Horvath. If there is concern pertaining to cited material, please contact at contact@vivianh.dev or Discord at vivianh.dev.
+This document is licensed under the [MIT license](../LICENSE.md). Ownership belongs to Vivian Horvath. If there is concern pertaining to cited material, please contact at contact@vivianh.dev or Discord at vivianh.dev.
